@@ -1,0 +1,76 @@
+{
+  "appointments": [
+    {
+      "name": "Poul Ejner",
+      "carBrand": "Range Rover",
+      "carModel": "X",
+      "licensePlate": "TB37998",
+      "date": "2024-07-03",
+      "description": "Polering",
+      "id": "c410"
+    },
+    {
+      "name": "Camilla",
+      "carBrand": "Mercedes",
+      "carModel": "X9",
+      "licensePlate": "XT34906",
+      "date": "2024-07-03",
+      "description": "Sommerdæk + vask + syn",
+      "id": "75b0"
+    },
+    {
+      "id": "9443",
+      "name": "Jonas",
+      "carBrand": "Ferrari",
+      "carModel": "308",
+      "licensePlate": "BY45612",
+      "date": "2024-06-25",
+      "description": "Ny fælge + sommerdæk"
+    },
+    {
+      "id": "744f",
+      "name": "Vibeke",
+      "carBrand": "Toyota",
+      "carModel": "Yaris",
+      "licensePlate": "TT23567",
+      "date": "2024-06-29",
+      "description": "Syn"
+    },
+    {
+      "id": "46fb",
+      "name": "Torben",
+      "carBrand": "Citron",
+      "carModel": "Berlingo",
+      "licensePlate": "AS12345",
+      "date": "2024-06-29",
+      "description": "Skift af motor"
+    },
+    {
+      "id": "d150",
+      "name": "Lars",
+      "carBrand": "Citron",
+      "carModel": "Berlingo",
+      "licensePlate": "RT12567",
+      "date": "2024-06-25",
+      "description": "Syn + vinterdæk + vask"
+    },
+    {
+      "id": "8b79",
+      "name": "Camilla",
+      "carBrand": "Mercedes",
+      "carModel": "X10",
+      "licensePlate": "ER45237",
+      "date": "2024-06-25",
+      "description": "Syn"
+    },
+    {
+      "id": "eeaa",
+      "name": "Troels",
+      "carBrand": "toyota",
+      "carModel": "x",
+      "licensePlate": "xxt",
+      "date": "2024-06-25",
+      "description": "syn"
+    }
+  ]
+}

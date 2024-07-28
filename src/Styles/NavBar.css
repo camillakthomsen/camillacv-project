@@ -1,0 +1,40 @@
+/* src/Styles/NavBar.css */
+.navbar {
+    background-color: white;
+    padding: 10px 1cm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    font-family: 'Playfair Display', serif;
+}
+
+.nav-left, .nav-right {
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-center {
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navItem {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 0.5cm;
+}
+
+.navItem:last-child {
+    margin-right: 0; /* Remove the margin from the last item */
+}
+
+.navItem:hover {
+    text-decoration: underline;
+}
+
+

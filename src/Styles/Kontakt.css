@@ -1,0 +1,19 @@
+.kontakt-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(199, 133, 133, 0.1);
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .kontakt-info {
+    margin-top: 20px;
+  }
+  
+  .kontakt-info p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

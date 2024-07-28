@@ -1,0 +1,93 @@
+
+.uddannelse-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.uddannelser {
+  flex: 1;
+  margin-right: 20px; 
+}
+
+.uddannelse-box {
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.uddannelse-box h3 {
+  margin: 0;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 0.3;
+}
+
+.timeline-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0.781);
+  color: white;
+  padding: 4px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  width: 260px; /* Gør boksene samme bredde */
+  height: 70px; /* Gør boksene samme højde */
+  box-sizing: border-box; /* Inkluder padding i bredde og højde */
+}
+
+.timeline-year {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.timeline-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.karakter-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 260px;
+  height: 40px;
+  }
+  
+  .karakter-button:hover {
+    background-color: #f0f0f0;
+  }
+
+  .portfolie-button {
+    margin-top: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 260px;
+  height: 40px;
+  }
+  
+  .portfolie-button:hover {
+    background-color: #f0f0f0;
+  }
+
+
+  
