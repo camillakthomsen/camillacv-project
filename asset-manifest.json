@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/camillacv-project/static/css/main.bf7ff667.css",
+    "main.js": "/camillacv-project/static/js/main.4297863a.js",
+    "static/js/453.5333ad58.chunk.js": "/camillacv-project/static/js/453.5333ad58.chunk.js",
+    "index.html": "/camillacv-project/index.html",
+    "main.bf7ff667.css.map": "/camillacv-project/static/css/main.bf7ff667.css.map",
+    "main.4297863a.js.map": "/camillacv-project/static/js/main.4297863a.js.map",
+    "453.5333ad58.chunk.js.map": "/camillacv-project/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7ff667.css",
+    "static/js/main.4297863a.js"
+  ]
+}
